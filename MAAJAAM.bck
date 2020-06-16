@@ -4,18 +4,14 @@ $CMP MIKROE-AMP-CLICK-2x20W
 D MikroE Click Amp
 $ENDCMP
 #
-$CMP MIKROE_CLICK_AMP
-D MikroE Click Amp
+$CMP POLOLU-2117
+D 2.5-12V in, 12V out
 $ENDCMP
 #
 $CMP UART_PROGRAMMER
 D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
 F ~
-$ENDCMP
-#
-$CMP mikroe_click_amp
-D MikroE Click Amp
 $ENDCMP
 #
 #End Doc Library
