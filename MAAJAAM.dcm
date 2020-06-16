@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIKROE-AMP-CLICK-2x20W
+D MikroE Click Amp
+$ENDCMP
+#
+$CMP POLOLU-2117
+D 2.5-12V in, 12V out
+$ENDCMP
+#
+$CMP UART_PROGRAMMER
+D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+#End Doc Library
